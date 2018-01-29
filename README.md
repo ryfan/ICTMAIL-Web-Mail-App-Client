@@ -1,2 +1,2 @@
-# ICTMail
-Email Client menggunakan Kriptografi. Khusus email Gmail, Yahoo, dan AOL Mail.
+# ICTMail - Mail App Client
+Email Client menggunakan Algoritma Kriptografi AES dan RC4. Khusus email Gmail, Yahoo, dan AOL Mail.
