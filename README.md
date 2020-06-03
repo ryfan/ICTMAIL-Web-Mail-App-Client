@@ -14,4 +14,4 @@ Running on PHP >= 5.6 and Active Extension PHP
 1. PHP Mail
 2. OpenSSL
 
-# WWW.RYFAN.NET
+# WWW.RYFAN.ID
